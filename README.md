@@ -2,7 +2,7 @@
 
 A simple pixel painter I built to learn **Svelte 5**, **Tailwind CSS v4**, and **TypeScript**. You just click square, make cool retro art, and print or save it when you're done!
 
-## ✨ What it can do
+## what it can do
 
 - **🖊️ Pen & 🧹 Eraser:** Click or drag your mouse (or finger!) to draw and fix mistakes.
 - **🖐️ Pan Mode:** Move around big canvases easily on your phone or laptop.
